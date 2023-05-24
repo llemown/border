@@ -1,0 +1,62 @@
+body 
+{
+	background-image: url("https://media.discordapp.net/attachments/964894693466968134/1110941080070914058/Aesthetic_ipad_wallpaper.jpg?width=610&height=426");
+	background-repeat:repeat;
+	background-size: auto;
+}
+h1
+{
+	color: black;
+	font-size: 20pt;
+	text-align: center;
+	font-family: Comic Sans MS;
+}
+h2
+{
+	color:black;
+	font-size: 15pt;
+	text-align: center;
+	font-family: Comic Sans MS;
+}
+.p1
+{
+	font-size:20px;
+    color:white;
+    text-align:right;    
+    border:5px solid white;
+}
+.p2
+{
+     font-size:20px;
+     color:white;
+     text-align:center;   
+     border:5px dashed white;
+}
+.p3
+{
+     font-size:20px;
+     color:white;
+     text-align:center;   
+     border:5px dotted white;
+}
+.p4	
+{
+     font-size:20px;
+     color:white;
+     text-align:center;   
+     border:5px double white;
+}
+.p5
+{
+     font-size:20px;
+     color:white;
+     text-align:center;   
+     border:5px groove white;
+}
+.p6
+{
+     font-size:20px;
+     color:white;
+     text-align:center;   
+     border:5px ridge white;
+}
